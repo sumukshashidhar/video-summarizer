@@ -34,7 +34,6 @@ OPENAI_API_KEY=your_api_key_here
 Update the input_vtt, output_text, and output_summary variables in the script with the appropriate file paths.
 
 ```python
-Copy code
 input_vtt = "input.vtt"
 output_text = "processed_text.txt"
 output_summary = "summary.txt"
